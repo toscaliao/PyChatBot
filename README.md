@@ -66,11 +66,11 @@ You can customize chatbot behaviors and replies by editing the conversation logi
 
 ```
 PyChatBot/
-├── chatbot/             # Core chatbot modules
-│   ├── __init__.py
-│   ├── bot_logic.py      # Chatbot response logic
-│   └── utils.py          # Helper functions
-├── main.py               # Main script to run the chatbot
+├── chatbot/              # Core chatbot modules
+│   ├── main.py           # Main script to run the chatbot
+│   ├── chat.py           #   
+│   ├── chatbot.py        # Chatbot response logic
+│   └── chatwithGPT.py    # train with Generative Pre-trained Transformer 
 ├── README.md             # Project documentation
 ├── requirements.txt      # Python dependencies
 └── LICENSE               # License file
