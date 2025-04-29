@@ -73,6 +73,7 @@ PyChatBot/
 │   └── chatwithGPT.py    # train with Generative Pre-trained Transformer 
 ├── README.md             # Project documentation
 ├── requirements.txt      # Python dependencies
+├── dev_record.pdf        # Records the dev progress & research about generative AI
 └── LICENSE               # License file
 ```
 
