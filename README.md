@@ -16,7 +16,7 @@ Users can create their own responses, conversation flows, and even integrate sim
 
 ## ✨ Features
 
-- Easy-to-edit response system
+- The response system which is easy to edit
 - Modular conversation logic
 - Simple structure for beginners
 - Designed for easy expansion and integration
