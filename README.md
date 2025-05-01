@@ -66,7 +66,7 @@ You can customize chatbot behaviors and replies by editing the conversation logi
 
 ```
 PyChatBot/
-├── chatbot/              # Core chatbot modules
+├── chatbot_python/       # Core chatbot code(s)
 │   ├── main.py           # Main script to run the chatbot
 │   ├── train.py          # Train via modules 
 │   ├── chatbot.py        # Chatbot response logic
